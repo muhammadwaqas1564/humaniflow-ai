@@ -1,0 +1,15 @@
+flask
+transformers
+torch
+python-docx
+PyPDF2
+textstat
+tiktoken
+protobuf
+sentencepiece
+accelerate
+openai
+huggingface_hub
+python-dotenv
+redis
+celery

@@ -46,7 +46,7 @@ cd humaniflow-ai
 
 
 
-**Create virtual environment**
+2. **Create virtual environment**
 ```bash
 # On Windows
 python -m venv venv
@@ -57,10 +57,10 @@ python3 -m venv venv
 source venv/bin/activate
 
 
-**Install dependencies**
+3. **Install dependencies**
 ```bash
 pip install -r requirements.txt
 
-**Edit the .env file and add your OpenRouter API key:**
+4. **Edit the .env file and add your OpenRouter API key:**
 env
 OPENAI_API_KEY=your_openrouter_api_key_here
